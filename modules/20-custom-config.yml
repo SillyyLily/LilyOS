@@ -1,0 +1,15 @@
+name: custom-config
+type: apt
+sources:
+- packages:
+   - rofi
+   - hyprland
+   - hyprpaper
+   - polkitd
+   - xfce-polkit
+   - waybar
+   - grim
+   - clipman
+   - slurp
+   - polkitd
+   - xfce-polkit

@@ -11,5 +11,3 @@ sources:
    - grim
    - clipman
    - slurp
-   - polkitd
-   - xfce-polkit
